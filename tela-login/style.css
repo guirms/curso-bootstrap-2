@@ -1,0 +1,25 @@
+body {
+    /* background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg"); */
+     background-image: url("https://realinstitutodeoncologia.com.br/wp-content/uploads/2017/07/white-wallpaper-18.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.alinhado-meio-tela {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto
+}
+
+.box-login {
+    height: 460px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box-login-logo {
+    width: 40%;
+}
